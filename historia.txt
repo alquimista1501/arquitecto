@@ -1,7 +1,9 @@
 Esta es la historia de Daniel Martinez
 
-Daniel Martinez tiene 41 años y vivo en Venezuela
+Daniel Martinez tiene 41 años y vive en Caracas, Venezuela
 
-Esperando a formarme como programador
+El esta esperando a formarse como programador
 
-Hoy hablaremos de mi historia.  
+Hoy se hablara de su historia comenzando con este (nuevo) punto.
+
+Se agrega esta nueva linea.
