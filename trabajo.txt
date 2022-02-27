@@ -6,4 +6,6 @@ Segundo avance para probar el comando git reset --soft
 
 Las pruebas comienzan a hacerse en funcion de aprender a dominar esta herramienta (nuevo 3)
 
-Vamos con un tercer cambio, agregamos esta linea nueva.
+Vamos con un tercer cambio, agregamos esta linea no tan nueva.
+
+Ahora si agregamos nuevos cambios
