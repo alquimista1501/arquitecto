@@ -1,0 +1,9 @@
+Este es la version corregida de la corregida del proyecto
+
+Comienza la segunda version de la prueba. Se corrigio esta linea de hecho.
+
+Segundo avance para probar el comando git reset --soft 
+
+Las pruebas comienzan a hacerse en funcion de aprender a dominar esta herramienta (nuevo 3)
+
+Vamos con un tercer cambio, agregamos esta linea nueva.
