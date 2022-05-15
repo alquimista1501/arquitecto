@@ -1,0 +1,23 @@
+p
+{
+    color: blue;
+    font-size: 24px;
+}
+
+ol
+{
+    color: red;
+    font-size: 20px;
+}
+
+ul
+{
+    color: green;
+    font-size: 15px;
+}
+
+input
+{
+    color: magenta;
+    font-size: 23px;
+}
