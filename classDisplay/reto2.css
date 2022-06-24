@@ -1,0 +1,97 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: lightgray;
+    height: 6rem;
+}
+
+figure {
+    display: inline-block;
+    padding-top: 2rem;
+    padding-left: 1rem;
+}
+
+nav {
+    display: inline-block;
+    position: absolute;
+    right: 1rem;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    padding-top: 2rem;
+    color: white;
+}
+
+main {
+    height: 70rem;
+    background-color: violet;
+    width: 20rem;
+}
+
+.main-aside {
+    display: inline-block;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    width: 10rem;
+    height: 10rem;
+    border-radius: 0.4rem;
+    margin-top: 1rem;
+}
+
+.main-aside__item {
+    background-color: pink;
+    font-size: 1.3rem;
+    width: 17rem;
+    height: 15rem;
+    display: inline-block;
+    margin-top: 1.5rem;
+    border-radius: 0.6rem;
+    text-align: justify;
+}
+
+section {
+    background-color: grey;
+    display: inline-block;
+    width: 108rem;
+    height: 70rem;
+    margin-left: 9rem;
+    position: absolute;
+    font-size: 1.6rem;
+    text-align: justify;
+    padding-top: 5rem;
+}
+
+.footer-div {
+    background-color: yellow;
+    height: 10rem;
+}
+
+.footer-div__item {
+    display: inline-block;
+}
+
+.header-nav__item a::after {
+    content: " | ";
+    color: white;
+}
+
+.footer-div__item a::after {
+    content: " | ";
+    color: orangered;
+}
+
