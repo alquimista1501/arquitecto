@@ -1,0 +1,146 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.master {
+    width: 100%;
+    height: 15vh;
+    font-size: 1.6rem;
+    font-family:'Noto Sans', sans-serif;
+    font-weight: 600;
+    background-color: #F5CA2F;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+}
+
+.master-fi {
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    width: 20%;
+    height: 10vh;
+    font-size: 1rem;
+    margin-top: 1.5rem;
+    margin-left: 0.5rem;
+}
+
+.master-nav {
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    margin-top: 3rem;
+}
+
+.list {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    margin-left: 50rem;
+}
+
+.list-l1 {
+    position: relative;
+    display: inline-block;
+    margin-left: 3rem;
+}
+
+.list-li a:hover {
+    color: brown;
+    text-decoration: none;
+}
+
+.list-l1 a:active {
+    color: blue;
+}
+
+.container {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container-as {
+    width: 30%;
+    height: 80vh;
+    font-size: 1.8rem;
+    font-family:'Libre Baskerville', serif;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 2rem;
+    background-color: whitesmoke
+}
+
+.s1 {
+    width: 150%;
+    height: 15vh;
+    background-color: #FA7825;
+    margin-top: 2rem;
+    margin-left: 3rem;
+    padding-top: 2rem;
+    padding-left: 2rem;
+}
+
+.container-se {
+    position: absolute;
+    display: flex;
+    flex-wrap: wrap;
+    width: 64vw;
+    height: 75vh;
+    background-color: #D9A63D;
+    margin-top: 2rem;
+    margin-left: 45rem;
+    margin-right: 10rem;
+    font-size: 1.6rem;
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 2rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+.last {
+    width: 100%;
+    height: 15vh;
+    background-color: #F5CA2F;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    margin-top: 2rem;
+}
+
+.last-d1 {
+    font-size: 1.6rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 3rem;
+    padding-left: 2rem;
+}
+
+.last-d1 a:active {
+    color: red;
+}
+
+@media (min-width: 600px) {
+    .master {
+        width: 50%;
+    }
+
+    .container {
+        width: 60%;
+    }
+
+    .last {
+        width: 50%;
+    }
+}
+
+
